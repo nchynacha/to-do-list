@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-# todolist
 
-A new Flutter project.
+# To-Do List App
+ A simple and beautiful To-Do List application built with Flutter and Riverpod for state management.A simple and beautiful To-Do List application built with Flutter and Riverpod for state management.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# to-do-list
->>>>>>> 4f362eb2c8a5743af0c6e2f667770d5b1e2b5d76
+## Features
+- Add and delete tasks
+- Mark tasks as completed
+- State management with Riverpod
